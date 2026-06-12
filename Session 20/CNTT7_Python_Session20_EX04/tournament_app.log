@@ -1,0 +1,8 @@
+[2026-06-12 08:05:09] - [INFO] - Coach viewed the team roster.
+[2026-06-12 08:05:23] - [WARNING] - Failed to sign player - Duplicate player ID P03
+[2026-06-12 08:05:55] - [WARNING] - Failed to sign player - Invalid salary input
+[2026-06-12 08:06:03] - [INFO] - Signed new player nguyên with salary 5000000.0
+[2026-06-12 08:06:07] - [INFO] - Coach viewed the team roster.
+[2026-06-12 08:06:22] - [INFO] - Updated player P04 salary from 5000000.0 to 50000.0
+[2026-06-12 08:06:25] - [INFO] - Generated monthly payroll report. Total: 61500.0
+[2026-06-12 08:06:30] - [INFO] - System shut down normally.
